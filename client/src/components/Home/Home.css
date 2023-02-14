@@ -1,0 +1,27 @@
+.Cont-Home{
+
+}
+
+.Contenedor-targetas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.imagen-cont-uno{
+    background-image: url("https://images.pexels.com/photos/326278/pexels-photo-326278.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+}
+
+.buttom-id{
+    border: none;
+    padding: 6px;
+    margin-top: 5px;
+    background-color: rgb(124, 202, 202);
+    border-radius: 5px;
+}
+
+.buttom-id:hover{
+    cursor: pointer;
+    background-color: rgb(0, 255, 255);
+}

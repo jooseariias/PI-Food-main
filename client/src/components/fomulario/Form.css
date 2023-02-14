@@ -1,0 +1,75 @@
+
+form{
+   background-image: url(https://wallpaperaccess.com/full/783701.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.Crea-receta{
+   
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    height: 70vh;
+}
+
+label{
+    font-family: 'Permanent Marker', cursive;
+   
+}
+
+textarea{
+    resize: none;
+    width: 400px;
+    height: 100px;
+}
+
+.input-diets{
+    margin-top: 20px;
+    
+}
+.Nombres-receta{
+    margin-left: 10px;
+}
+.buttom-enviar-form{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    color: red;
+    margin-right: 10px;
+    font-family: 'Permanent Marker', cursive;
+    
+}
+
+.buttom-enviar-form:hover{
+    background-color: rgb(41, 132, 218);
+    cursor: pointer;
+    
+}
+
+
+.buttom-volver{
+
+    background-color: rgb(255, 255, 255);
+    padding: 8px;
+    border: none;
+    border-radius: 3px;
+    font-family: 'Permanent Marker', cursive;
+    
+}
+
+.buttom-volver:hover{
+    background-color: rgb(255, 255, 0);
+    cursor: pointer;
+}
+
+.error{
+    color: red;
+    font-family: 'Permanent Marker', cursive;
+}

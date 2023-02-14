@@ -1,0 +1,21 @@
+.back-a{
+    background-image: url(https://st2.depositphotos.com/1001069/6974/i/950/depositphotos_69746343-stock-photo-italian-food-cooking-ingredients.jpg);
+}
+
+
+.contenedor-carddetail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border:solid black 1px;
+    
+}
+
+.letritas{
+    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

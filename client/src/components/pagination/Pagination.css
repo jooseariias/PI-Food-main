@@ -1,0 +1,32 @@
+.Cont-Numeros{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Butom-ul{
+    margin-left: 2px;
+    margin-right: 5px;
+    background-color: rgb(186, 217, 245);
+    border: none;
+    padding: 5px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.Butom-ul:hover{
+    background-color: rgb(217, 255, 0);
+}
+.page_button{
+    margin-left: 2px;
+    margin-right: 5px;
+    background-color: rgb(182, 197, 209);
+    border: none;
+    padding: 5px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.page_button:hover{
+    background-color: rgb(217, 255, 0);
+}

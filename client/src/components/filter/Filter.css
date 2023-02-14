@@ -1,0 +1,34 @@
+.Cont-Filter{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 80px;
+    
+}
+
+.selects-home{
+    background-color: rgb(255, 251, 0);
+    border: none;
+    padding: 4px;
+    cursor: pointer;
+    border-radius: 3px;
+} 
+.selects-home:hover{
+    background-color: rgb(201, 198, 59);
+    cursor: pointer;
+}
+
+
+.Buttom-secion{
+    background-color: rgb(255, 251, 0);
+
+    font-size: 15px;
+    border: none;
+    padding: 4px;
+
+}
+
+.Buttom-secion:hover{
+    cursor: pointer;
+    background-color: rgb(196, 195, 131);
+}
